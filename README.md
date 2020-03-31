@@ -23,7 +23,7 @@ Note that the optimization algorithm optimizes half of the overall path for runt
 
 * averageDistanceTolerance : Tolerance on the average distance of the path from (0,0).
 
-### Example 1
+### Example
 
 We run the optimization with tolerances on symmetry and average distance sufficiently high that they are ignored. 
 ```
